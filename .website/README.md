@@ -5,6 +5,7 @@ directors_cut: https://ded0kl.github.io/js13k-2026-froopyland/
 
 FROOPYLAND — Unicorns & Rainbows
 A game based on the iconic Rick and Morty episode "The ABC's of Beth" (Season 3, Episode 9)
+In the director's cut, you can select levels from the main menu for testing
 
 Beth bursts into the garage: the news say Tommy's dad is being executed TODAY for murder! Rick grabs his portable quantum projector — and the duo heads to Froopyland, a childhood paradise Rick once built with his own hands. He swears: everything here is child-proofed, NOTHING can go wrong. Of course it can.
 
